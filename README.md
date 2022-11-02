@@ -20,3 +20,7 @@ Dan hasil kode programnya adalah:
 
 ![2022-11-02 (5)](https://user-images.githubusercontent.com/115615748/199389276-32a131d5-9eeb-4a2a-b647-8cd4f6137fb2.png)
 ![2022-11-02 (6)](https://user-images.githubusercontent.com/115615748/199389296-b8efaba6-4511-4560-bb73-5d2d08123591.png)
+
+menambahkan flowchart luas dan keliling lingkaran
+![2022-11-02 (9)](https://user-images.githubusercontent.com/115615748/199390554-b1d7d3e9-666e-45ef-b005-3850c5c13ba2.png)
+
