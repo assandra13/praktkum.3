@@ -8,7 +8,7 @@ format{a*1,3,5,7,9} artinya variabel a yang berisi (*) akan di kalikan 1, 3, 5, 
 untuk lebih jelas nya liat kode program di bawah ini;
 ![img.1](gambar/2022-11-02%20(7).png)
 Dan hasil kode programnya adalah:
-![img.2](gambar/2022-11-02%20(8).pngu,,,,)
+![img.2](gambar/2022-11-02%20(8).png)
 
 
 # *Menghitung Luas dan Keliling Lingkaran*
